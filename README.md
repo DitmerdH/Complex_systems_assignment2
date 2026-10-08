@@ -9,8 +9,10 @@ This repository contains a notebook with which part of the methodology from an a
 
 ## How to run
 1. Clone the repository:
-
+   
+```bash
 git clone https://github.com/DitmerdH/Complex_systems_assignment2.git
+```
 
 2. Load the environment file:
 
