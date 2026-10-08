@@ -19,7 +19,6 @@ git clone https://github.com/DitmerdH/Complex_systems_assignment2.git
 ```bash
    conda env create -f environment.yml
    conda activate complex-systems-a2
-   jupyter lab
 ```
 
 3. Open the notebook and run the cells after selecting the created environment
