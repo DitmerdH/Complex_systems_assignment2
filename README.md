@@ -29,6 +29,9 @@ jupyter nbconvert --to notebook --execute Assignment2_CS.ipynb --output Assignme
 
   You can also run the notebook manually after selecting the complex-systems-a2 environment
 
+## Seeds
+For the seed we use 42, which is specified at the beginning of the notebook.
+
 ## Authors
 - Ditmer de Heer
 - Bente Zuijdam
